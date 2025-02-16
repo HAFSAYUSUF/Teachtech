@@ -57,7 +57,8 @@
 3. Build and run the project on an emulator or connected device.
 
 ### App Screenshots
-![login.png](https://raw.githubusercontent.com/HAFSAYUSUF/Teachtech/accf6d0d38b4fcff3fa98bb5a10dc849f569f0e9/login.png)
+![login.png](https://raw.githubusercontent.com/HAFSAYUSUF/Teachtech/accf6d0d38b4fcff3fa98bb5a10dc849f569f0e9/login.png
+![attendance](https://raw.githubusercontent.com/HAFSAYUSUF/Teachtech/a539782cc8aa308142cb79dc48e7f8372dce48a3/attendance_marking.png)
 
 ## Contributing
 
